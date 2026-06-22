@@ -13,9 +13,9 @@ The project is a Library Management System built in Python.it covers the core th
 ### Option 1: Run in GitHub Codespaces (Recommended)
 1. Open the GitHub repository.
 2. Click **Code → Codespaces**.
-3. Open the  Codespace or create a new one.
+3. Open the Codespace and create a new one.
 4. Wait for the environment to load.
-5. Run the program using:
+5. Run the program
 
 
 ## Example Usage
